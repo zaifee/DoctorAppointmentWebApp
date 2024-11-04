@@ -1,0 +1,5 @@
+In the config folder we are going to store multiple configuratin file like cloudfare config,mongodb config
+In the controllers folder multiple controller function that will be the main logic for the api
+In the middlewares folder we are going to create custom middlewares to authenticate the user  
+In the models folder we are going to store mongoose structure to store the data in sturtured format 
+In the routes we will setups different routes 
